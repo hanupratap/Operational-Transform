@@ -1,4 +1,4 @@
 # Operational_Transform
-This is an implementation of Operational Transform algorithm which is used by google docs
+Operational transformation (OT) is a technology for supporting a range of collaboration functionalities in advanced collaborative software systems. OT was originally invented for consistency maintenance and concurrency control in collaborative editing of plain text documents. Its capabilities have been extended and its applications expanded to include group undo, locking, conflict resolution, operation notification and compression, group-awareness, HTML/XML and tree-structured document editing, collaborative office productivity tools, application-sharing, and collaborative computer-aided media design tools.[1] In 2009 OT was adopted as a core technique behind the collaboration features in Apache Wave and Google Docs.
 
 ![alt text](https://cdn-images-1.medium.com/max/2000/0*AnGQ7dnfty0Fz-2d.png)
